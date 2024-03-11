@@ -19,7 +19,7 @@ for Row in range(0,7):
     str=str+"\n"    
 print(str);
 b) Print your name by using for loop
-Ans:name = "Hardik"
+Ans:name = "Mohit"
 for letter in name:
     print(letter, end=' ')
 
