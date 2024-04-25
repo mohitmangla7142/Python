@@ -1,0 +1,6 @@
+Write a python program which takes user input and do the following tasks:
+a) print number of vowels in the entered string
+b) print the length of the entered string
+c) convert string element to uppercase, lowercase, capitalise the first letter, title-case
+and swapcase
+d) print the letters which are at odd index
